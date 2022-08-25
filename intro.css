@@ -2,3 +2,6 @@
     font-size: 20px;
     color: red !important;
 }
+ .confluence-markdown-editor-content > h1,h2,h3 {
+    color: orange !important;
+}
